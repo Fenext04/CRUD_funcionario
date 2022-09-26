@@ -4,10 +4,10 @@
 <table>
     <tr>
         <td>
-            <a href="https://laravel.com/docs/8.x"><img src="icons/laravel.png" /></a>
+            <a href="https://laravel.com/docs/8.x"><img src="/public/icons" /></a>
         </td>
         <td>
-            <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/"><img src="icons/bootstrap.png" /></a>
+            <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/"><img src="/public/icons/bootstrap.png" /></a>
         </td>
     </tr>
 </table> 
