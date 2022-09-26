@@ -4,7 +4,7 @@
 <table>
     <tr>
         <td>
-            <a href="https://laravel.com/docs/8.x"><img src="/public/icons" /></a>
+            <a href="https://laravel.com/docs/8.x"><img src="/public/icons/laravel.png" /></a>
         </td>
         <td>
             <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/"><img src="/public/icons/bootstrap.png" /></a>
