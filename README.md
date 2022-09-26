@@ -27,7 +27,7 @@
 2. Execute `composer install`
 3. Copie o `.env.example` para `.env`
 4. Crie um banco de dados chamado `funcionarios_CRUD` com o charset `utf8mb4_unicode_ci`
-5. Execute os comandos: `php artisan key:generate` , `php artisan migrate` e 'php artisan db:seed --class=SetorSeeder' para popular o banco de dados com os setores
+5. Execute os comandos: `php artisan key:generate` , `php artisan migrate` e `php artisan db:seed --class=SetorSeeder` para popular o banco de dados com os setores
 6. Execute `php artisan serve` e o projeto será executado na porta http://localhost:8000
 
 
