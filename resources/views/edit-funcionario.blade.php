@@ -83,7 +83,7 @@
                             @endif
                             <div class="col-12">
                                 <div class="text-center">
-                                    <button type="submit" class="btn btn-primary">Cadastrar</button>
+                                    <button type="submit" class="btn btn-primary">Editar</button>
                                 </div>
                             </div>
                             </div>
